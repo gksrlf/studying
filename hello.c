@@ -3,6 +3,6 @@
 int main(void) {
     printf("Hello world");
 }
-char planA() {
-    return 'A';
+char planB() {
+    return 'B';
 }
